@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bathtub/static/css/main.67bf91bf.css",
+    "main.js": "/bathtub/static/js/main.0f702ea6.js",
+    "static/js/787.69ec417b.chunk.js": "/bathtub/static/js/787.69ec417b.chunk.js",
+    "index.html": "/bathtub/index.html",
+    "main.67bf91bf.css.map": "/bathtub/static/css/main.67bf91bf.css.map",
+    "main.0f702ea6.js.map": "/bathtub/static/js/main.0f702ea6.js.map",
+    "787.69ec417b.chunk.js.map": "/bathtub/static/js/787.69ec417b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67bf91bf.css",
+    "static/js/main.0f702ea6.js"
+  ]
+}
